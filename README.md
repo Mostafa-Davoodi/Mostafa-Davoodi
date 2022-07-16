@@ -1,4 +1,6 @@
-## Mostafa Davoodi 👋
+## Mostafa Davoodi 👨‍💻
+
+![Snake animation](https://github.com/Mostafa-Davoodi/Mostafa-Davoodi/blob/master/asset/github-contribution-grid-snake.svg)
 
 <!-- <div align="center">
   <a href="https://github.com/Mostafa-Davoodi">
